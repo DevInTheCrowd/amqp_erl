@@ -13,7 +13,7 @@
 %% The Initial Developer of the Original Code is GoPivotal, Inc.
 %% Copyright (c) 2007-2017 Pivotal Software, Inc.  All rights reserved.
 %%
-
+asd
 -module(amqp10_client_app).
 
 -behaviour(application).
