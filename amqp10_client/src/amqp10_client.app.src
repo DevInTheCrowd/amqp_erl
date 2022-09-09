@@ -1,0 +1,15 @@
+{application, amqp10_client,
+ [{description, "AMQP 1.0 Client"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {amqp10_client_app, []}},
+  {applications,
+   [
+    kernel,
+    stdlib
+   ]},
+  {env, []},
+  {modules, []},
+  {licenses, []},
+  {links, []}
+ ]}.
